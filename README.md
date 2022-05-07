@@ -30,7 +30,7 @@ For my project, I will collect a Netflix data set from [Almabetter](https://driv
 ## Dash Web App
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
 
-![App](https://github.com/xavier-lim/flixRecommender/blob/master/images/App.PNG)
+![App](https://github.com/AnshRockstar/Netflix-Tv-show-and-Movie-Clustering/blob/main/Web%20App%20images/App.PNG)
 
 
 ## Conclusion
