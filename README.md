@@ -19,7 +19,7 @@ FlixRecommender recommends Netflix movies and TV shows based on a user's favouri
 
 ## Project Tools
 * Python
-* Jupyter Notebook
+* Google Colab Notebook
 *	Netflix csv file
 
 ## Data Source
