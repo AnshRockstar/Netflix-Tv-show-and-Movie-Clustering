@@ -4,7 +4,7 @@ I created a Dash web app that utlizes my model to provide film recommendations b
 
 App
 
-# FlixRecommender
+# NetflixRecommender System
 
 ![ClusterFlix Header](https://github.com/xavier-lim/clusterFlix/blob/master/images/clusterflix_header.jpg)
 
