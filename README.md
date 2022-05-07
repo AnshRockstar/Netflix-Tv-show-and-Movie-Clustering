@@ -6,7 +6,7 @@ App
 
 # NetflixRecommender System
 
-![ClusterFlix Header](https://github.com/xavier-lim/clusterFlix/blob/master/images/clusterflix_header.jpg)
+![ClusterFlix Header](https://github.com/AnshRockstar/Netflix-Tv-show-and-Movie-Clustering/blob/main/Web%20App%20images/Netflix.jpg)
 
 FlixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 
