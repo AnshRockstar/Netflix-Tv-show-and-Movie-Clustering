@@ -1,12 +1,16 @@
-# Netflix-Tv-show-and-Movie-Clustering
+<p align="center"> 
+  <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
+</p>
+<h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
+
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+
 Performing the EDA, Understanding the content available and Is Netflix has increasingly focusing on TV rather than movies in recent years.
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
 
-App
-
-# NetflixRecommender System
-
-![ClusterFlix Header](https://github.com/AnshRockstar/Netflix-Tv-show-and-Movie-Clustering/blob/main/Web%20App%20images/netflix-netflix-logo.gif)
+<p align="center"> 
+<img src="Gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
+</p>
 
 FlixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 
