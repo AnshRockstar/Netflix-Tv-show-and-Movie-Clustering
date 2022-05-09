@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
+  <img src="https://github.com/AnshRockstar/Netflix-Tv-show-and-Movie-Clustering/blob/main/Web%20App%20images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
 
